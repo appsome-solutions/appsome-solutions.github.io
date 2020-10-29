@@ -1,6 +1,6 @@
 # PwinsDay Privacy Policy #
 
-**1. <ins> General</ins> **
+**1. <ins> General</ins>**
 
 1.1 By accessing and using this PwinsDay mobile app (**“App”**) you agree to be bound by this
 privacy policy (**“Privacy Policy”**), and you consent to the collection and use of your
@@ -48,7 +48,7 @@ with our cookies policy set out in paragraph 4 below; and
 
 **4. <ins> Cookies Policy </ins>**
 
-4.1 What is a cookie?
+#4.1 What is a cookie?
 
 (A) Cookies are small data files that many websites automatically download to a user's
 computer, phone or tablet’s hard disk. They are primarily used in helping websites
@@ -112,7 +112,7 @@ products;
 services to you in the future and this may involve contacting you using the contact
 details you give us; and/or
 
-**6. <ins>  Disclosure of your information </ins> **
+**6. <ins>  Disclosure of your information </ins>**
 
 6.1 We may disclose your personal data to any member of our group, which means our
 affiliated companies, successors and assigns.
@@ -143,6 +143,6 @@ contact [info@pwinsday.com](mailto:info@pwinsday.com). Please note that any such
 a fee to meet our costs in providing the information to you, as provided by applicable
 Laws.
 
-**8. <ins> Contacting us </ins> **
+**8. <ins> Contacting us </ins>**
 
 8.1 If you have any queries about this Privacy Policy, please contact [info@pwinsday.com](mailto:info@pwinsday.com)
