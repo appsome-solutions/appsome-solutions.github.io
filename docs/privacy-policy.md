@@ -1,6 +1,6 @@
 # PwinsDay Privacy Policy #
 
-###1. <ins> General</ins> ###
+#1. <ins> General</ins> #
 
 1.1 By accessing and using this PwinsDay mobile app (**“App”**) you agree to be bound by this
 privacy policy (**“Privacy Policy”**), and you consent to the collection and use of your
@@ -16,7 +16,7 @@ binding on you.
 1.4 This Privacy Policy describes how we, as a data controller, fulfil our obligations under
 applicable data protection laws (**“Laws"**)
 
-###2. <ins> Information about us </ins> ###
+#2. <ins> Information about us </ins> #
 2.1 The App are owned and operated by PwinsDay LLC, 81 Oak Knoll Loop, Walnut Creek,
 CA 94596, USA and its successors and assigns (**“we”**, **“us”** or **“our”**).
 
