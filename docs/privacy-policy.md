@@ -1,6 +1,6 @@
 # PwinsDay Privacy Policy #
 
-#1. <ins> General</ins> #
+**1. <ins> General</ins> **
 
 1.1 By accessing and using this PwinsDay mobile app (**“App”**) you agree to be bound by this
 privacy policy (**“Privacy Policy”**), and you consent to the collection and use of your
@@ -16,12 +16,15 @@ binding on you.
 1.4 This Privacy Policy describes how we, as a data controller, fulfil our obligations under
 applicable data protection laws (**“Laws"**)
 
-#2. <ins> Information about us </ins> #
+**2. <ins> Information about us </ins>**
+
 2.1 The App are owned and operated by PwinsDay LLC, 81 Oak Knoll Loop, Walnut Creek,
 CA 94596, USA and its successors and assigns (**“we”**, **“us”** or **“our”**).
 
 2.2 We are committed to protecting and respecting your privacy.
-###3. <ins> Information we may collect from you </ins>
+
+**3. <ins> Information we may collect from you </ins>**
+
 3.1 We may collect and process the following data about you:
 
 (A) You will give us information in order for us to grant you access to the App (as
@@ -43,7 +46,7 @@ with our cookies policy set out in paragraph 4 below; and
 
 (E) We will process your personal data as set out in Section 5 of this Privacy Policy.
 
-###4. <ins> Cookies Policy </ins>
+**4. <ins> Cookies Policy </ins>**
 
 4.1 What is a cookie?
 
@@ -54,9 +57,8 @@ logging on process for registered users. They can store account and password
 information. Most web browsers automatically accept cookies. The App use
 cookies as a core part of their user access and authentication mechanism.
 
-(B) The use of the App requires the use of the cookie described in section
-
-4.2. For more information about cookies, including how to set your internet browser
+(B) The use of the App requires the use of the cookie described in section 4.2. For more
+ information about cookies, including how to set your internet browser
 to reject cookies, please go to [www.allaboutcookies.org](https://www.allaboutcookies.org).
 
 4.2 What cookies will the App use and for what purposes?
@@ -94,7 +96,7 @@ your information stored in cookies confidential and only use it within our group
 (which means our affiliated companies, successors and assigns), and not with any
 third party.
 
-###5. <ins>  How will we use the information we collect about you? </ins>
+**5. <ins>  How will we use the information we collect about you? </ins>**
 
 5.1 We may process your personal data in order to:
 
@@ -110,7 +112,7 @@ products;
 services to you in the future and this may involve contacting you using the contact
 details you give us; and/or
 
-###6. <ins>  Disclosure of your information </ins> ###
+**6. <ins>  Disclosure of your information </ins> **
 
 6.1 We may disclose your personal data to any member of our group, which means our
 affiliated companies, successors and assigns.
@@ -128,7 +130,7 @@ and/or
 (C) if we are under a duty to disclose or share your personal data in order to comply
 with a court order or other legal or regulatory requirement.
 
-###7. <ins> Updating and accessing your information </ins>
+**7. <ins> Updating and accessing your information </ins>**
 
 7.1 If you wish to update or amend the information which we hold about you or wish us to
 cease using your personal data please login into your PwinsDay account on the App or
@@ -141,6 +143,6 @@ contact [info@pwinsday.com](mailto:info@pwinsday.com). Please note that any such
 a fee to meet our costs in providing the information to you, as provided by applicable
 Laws.
 
-###8. <ins> Contacting us </ins> ###
+**8. <ins> Contacting us </ins> **
 
 8.1 If you have any queries about this Privacy Policy, please contact [info@pwinsday.com](mailto:info@pwinsday.com)
