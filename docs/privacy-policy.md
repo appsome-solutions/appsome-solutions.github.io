@@ -1,6 +1,6 @@
 # PwinsDay Privacy Policy #
 
-**1. <ins> General</ins>**
+**1. <ins> Generala</ins>**
 
 1.1 By accessing and using this PwinsDay mobile app (**“App”**) you agree to be bound by this
 privacy policy (**“Privacy Policy”**), and you consent to the collection and use of your
