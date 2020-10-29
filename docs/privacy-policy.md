@@ -1,6 +1,6 @@
 # PwinsDay Privacy Policy #
 
-**1. <ins> Generala</ins>**
+**1. <ins> General</ins>**
 
 1.1 By accessing and using this PwinsDay mobile app (**“App”**) you agree to be bound by this
 privacy policy (**“Privacy Policy”**), and you consent to the collection and use of your
@@ -48,7 +48,7 @@ with our cookies policy set out in paragraph 4 below; and
 
 **4. <ins> Cookies Policy </ins>**
 
-#4.1 What is a cookie?
+4.1 What is a cookie?
 
 (A) Cookies are small data files that many websites automatically download to a user's
 computer, phone or tablet’s hard disk. They are primarily used in helping websites
